@@ -1,1 +1,34 @@
-
+Common user command available in the game|/myonline - Shows the total online time (valid for all characters).|||||
+!|/pm nick - Opens the private message window with the contact.|||||
+!|/password oldpassword newpassword - Change password "oldpassword" to "newpassword".|||||
+!|/players - Shows how many players are in which room within the player.|||||
+!|/firework - Launch fireworks. Works in Standard Lounge and Love Island rooms.|||||
+!|/dice 10 - Roll dice, roll dice with sides from 1 to 10. If the number of sides is not specified, the default will be 6.|||||
+!|/spin - Is a bottle game, It works in a group chat. Points to one of the participants in a group chat.|||||
+!|/pay nick 100 - Gold Transfer , transfer 100 coins to the player named "nick". Player must be online.|||||
+!|/give nick 100 - Functions the same as the /pay, command, but locally this transfer is visible to everyone.|||||
+!|/expel nick - It allows you to expel a player from your room (kick).|||||
+!|/expel nick 60 - It allows you to banish a player from your room for a set period of time (60 minutes).|||||
+!|/room limit 30 - Sets a limit of 30 people for the maximum number of visitors in your room.|||||
+!|/room nofreecam - This mode disables the free camera feature, as well as the ability to change the skybox and lighting in your room (F5).|||||
+!|/room sex forbid – Turns off Sex in your room.|||||
+!|/room sex allow – Allows Sex in your room.|||||
+!|/room prompt welcome text - Set the welcome text for the room that appears at the entrance to "welcome text". Use "\" symbol to split a line in the text (to leave a space).|||||
+!|/room slowmode 15 - Set a slow chat mode in the room with at least 15 seconds between messages (slow mode).|||||
+!|/room slowmode mute - Turns off Local chat in your room.|||||
+!|/room slowmode reset - Restores the local chat you closed in your room.|||||
+!|/room close - Removes your room from the General room list and closes it.|||||
+!|/sex sub - For all suggested poses to be automatically accepted by the partner.|||||
+!|/sex deny - Automatically rejects all incoming offers.|||||
+!|/sex reset - Resets sex settings to default.|||||
+!|/whore - Automatically approves all incoming partner offers and all proposed positions.|||||
+!|/rot 45 - Character rotation (even during animation) 45 degrees. The value in degrees can be positive or negative.|||||
+!|/room vehicles forbid - Prohibits the use of vehicles in your location.|||||
+!|/room vehicles allow - Allows the use of vehicles in your location.|||||
+!|/nohugs - enables the no-hug mode. In this mode, players won't be able to hug you. Reapplying the command cancels this mode.|||||
+!|/colorinfo - Shows how much time is left before the end of the color nickname.|||||
+!|/room shownicknames or /room snn - Allows the location owner to hide players' nicknames.|||||
+!|/rps or /кнб - Mini-game "Rock, Paper, Scissors."|||||
+!|/hot or /оир - Mini-game "Heads or Tails."|||||
+!|/poker or /покер - Mini-game "5 Cards" (poker). Works only in group chat.|||||
+!|/rpd or /спк - Deck reset. Works only in group chat.|||||
