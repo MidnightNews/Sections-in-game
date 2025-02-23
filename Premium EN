@@ -1,2 +1,21 @@
 Premium features:|    - Find a character in the room\n    - Find out the location of a friend\n    - Make your character a ghost\n    - Increase the size of your character by no more than 2.5 times\n    - Summon vehicle\n    - Write in color in the chat\n    - Access to the command to transfer diamonds to other players\n    - Free purchase of a colored nickname at any time\n    - Teleport to any point in the location\n    - Synchronize the dance among members of a group chat\n    - Send messages to the world chat for free\n    - The ability to restrict access to your room and add players to it only by invitation. The room will be displayed in the general list of locations, but you can only enter it by invitation from the owner|||||
 !|<color=#ffed00><b>You can purchase premium status in the in-game store for in-game currency and diamonds.</b></color>|||||
+!How to buy premium in Midnight Shop:||||||
+!||https://midnight3d.in/images/Premium.png||||
+!How to buy diamonds/coins:||||||
+!||https://midnight3d.in/images/Instruction.png||||
+!Using premium account functions:||||||
+!|<color=#ffed00><b>    ctrl + alt + click the left mouse button to the desired location</b></color> - To teleport press these keys simultaneously.|||||
+!|    Attention. Teleportation does not work in locations with the NoFreeCam mode enabled.|||||
+!Other premium account features are managed in the "Prem Abilities" tab or by commands:||||||
+!|<color=#ffed00><b>    /vehicle</b></color> - Summons a jet bike for you to fly around the location (won't work if the location owner has disabled it).|||||
+!|<color=#ffed00><b>    /locate nick</b></color> - Moves the camera to the player "nick." Won't work if the free camera mode is disabled in the room.|||||
+!|<color=#ffed00><b>    /ghost</b></color> - Turns your character into a ghost.|||||
+!|<color=#ffed00><b>    /mysize 1</b></color> - Increases or decreases the size of your character (1 is normal size, values < 1 shrink your character, and if >1, enlarge). Maximum size = 2.5, minimum size = 0.2.|||||
+!|<color=#ffed00><b>    /where nick</b></color> - Shows the location where your friend "nick" is. Won't show if the player is in the wardrobe, editor, or a private location.|||||
+!|<color=#ffed00><b>    /diamonds nick 100</b></color> - Transfers 100 crystals to the player named "nick." The player must be online.|||||
+!|<color=#ffed00><b>    #13c491 message</b></color> - Allows you to write in all chats with colored text (13c491 - color hex code, message - your message).|||||
+!|<color=#ffed00><b>    /scc #FF0000 (#FF0000 - hexadecimal color code)</b></color> - Sets the desired color for your text in the chat, eliminating the need to enter it each time.|||||
+!|<color=#ffed00><b>    /scc reset</b></color> - Resets the text color to default.|||||
+!|<color=#ffed00><b>    /syncgroupdance dance number</b></color> or <color=#ffed00><b>/sgd dance number</b></color> - These commands allow synchronizing the dance among members of a group chat, the commands are entered in the same chat.|||||
+!|<color=#ffed00><b>    /room limited</b></color> - Allows you to restrict access to your location and add players to it only by invitation. The room will be displayed in the general list of locations, but you can only enter it by invitation from the owner.|||||
