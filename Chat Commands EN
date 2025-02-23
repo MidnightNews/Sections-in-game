@@ -1,38 +1,38 @@
-Game commands that are available to all players|<color=#ffed00><b>/myonline</b></color> - Shows the total online time (valid for all characters).|||||
-!|<color=#ffed00><b>/pm nick</b></color> - Opens the private message window with the contact.|||||
-!|<color=#ffed00><b>/password oldpassword newpassword</b></color> - Change password "oldpassword" to "newpassword".|||||
-!|<color=#ffed00><b>/pay nick 100</b></color> - Gold Transfer , transfer 100 coins to the player named "nick". Player must be online.|||||
-!|<color=#ffed00><b>/give nick 100</b></color> - Functions the same as the /pay, command, but locally this transfer is visible to everyone.|||||
-!|<color=#ffed00><b>/nohugs</b></color> - Enables the no-hug mode. In this mode, players won't be able to hug you. Reapplying the command cancels this mode.|||||
-!|<color=#ffed00><b>/afk text</b></color> - Enables automatic reply to all incoming messages with the text you specified.|||||
-!|<color=#ffed00><b>/colorinfo</b></color> - Shows how much time is left before the end of the color nickname.|||||
-!|<color=#ffed00><b>/rot 45</b></color> - Character rotation (even during animation) 45 degrees. The value in degrees can be positive or negative.|||||
-!|<color=#ffed00><b>/players</b></color> - Shows how many players are in standard locations.|||||
-!|<color=#ffed00><b>/firework</b></color> - Launches fireworks (the command is written only in the local chat). Works in standard rooms Saloon and Love Island.|||||
+Game commands that are available to all players|<color=#ffed00><b>    /myonline</b></color> - Shows the total online time (valid for all characters).|||||
+!|<color=#ffed00><b>    /pm nick</b></color> - Opens the private message window with the contact.|||||
+!|<color=#ffed00><b>    /password oldpassword newpassword</b></color> - Change password "oldpassword" to "newpassword".|||||
+!|<color=#ffed00><b>    /pay nick 100</b></color> - Gold Transfer , transfer 100 coins to the player named "nick". Player must be online.|||||
+!|<color=#ffed00><b>    /give nick 100</b></color> - Functions the same as the /pay, command, but locally this transfer is visible to everyone.|||||
+!|<color=#ffed00><b>    /nohugs</b></color> - Enables the no-hug mode. In this mode, players won't be able to hug you. Reapplying the command cancels this mode.|||||
+!|<color=#ffed00><b>    /afk text</b></color> - Enables automatic reply to all incoming messages with the text you specified.|||||
+!|<color=#ffed00><b>    /colorinfo</b></color> - Shows how much time is left before the end of the color nickname.|||||
+!|<color=#ffed00><b>    /rot 45</b></color> - Character rotation (even during animation) 45 degrees. The value in degrees can be positive or negative.|||||
+!|<color=#ffed00><b>    /players</b></color> - Shows how many players are in standard locations.|||||
+!|<color=#ffed00><b>    /firework</b></color> - Launches fireworks (the command is written only in the local chat). Works in standard rooms Saloon and Love Island.|||||
 !Room Management||||||
-!|<color=#ffed00><b>/expel nick</b></color> - It allows you to expel a player from your room (kick).|||||
-!|<color=#ffed00><b>/expel nick 60</b></color> - It allows you to banish a player from your room for a set period of time (60 minutes).|||||
-!|<color=#ffed00><b>/room limit 30</b></color> - Sets a limit of 30 people for the maximum number of visitors in your room.|||||
-!|<color=#ffed00><b>/room nofreecam</b></color> - This mode disables the free camera feature, as well as the ability to change the skybox and lighting in your room (F5).|||||
-!|<color=#ffed00><b>/room sex forbid</b></color> – Turns off Sex in your room.|||||
-!|<color=#ffed00><b>/room sex allow</b></color> – Allows Sex in your room.|||||
-!|<color=#ffed00><b>/room prompt welcome text</b></color> - Set the welcome text for the room that appears at the entrance to "welcome text". Use "\" symbol to split a line in the text (to leave a space).|||||
-!|<color=#ffed00><b>/room slowmode 15</b></color> - Set a slow chat mode in the room with at least 15 seconds between messages (slow mode).|||||
-!|<color=#ffed00><b>/room slowmode mute</b></color> - Turns off Local chat in your room.|||||
-!|<color=#ffed00><b>/room slowmode reset</b></color> - Restores the local chat you closed in your room.|||||
-!|<color=#ffed00><b>/room close</b></color> - Removes your room from the General room list and closes it.|||||
-!|<color=#ffed00><b>/room vehicles forbid</b></color> - Prohibits the use of vehicles in your room.|||||
-!|<color=#ffed00><b>/room vehicles allow</b></color> - Allows the use of vehicles in your room.|||||
-!|<color=#ffed00><b>/room shownicknames</b></color> or <color=#ffed00><b>/room snn</b></color> - Allows the location owner to hide players nicknames.|||||
+!|<color=#ffed00><b>    /expel nick</b></color> - It allows you to expel a player from your room (kick).|||||
+!|<color=#ffed00><b>    /expel nick 60</b></color> - It allows you to banish a player from your room for a set period of time (60 minutes).|||||
+!|<color=#ffed00><b>    /room limit 30</b></color> - Sets a limit of 30 people for the maximum number of visitors in your room.|||||
+!|<color=#ffed00><b>    /room nofreecam</b></color> - This mode disables the free camera feature, as well as the ability to change the skybox and lighting in your room (F5).|||||
+!|<color=#ffed00><b>    /room sex forbid</b></color> – Turns off Sex in your room.|||||
+!|<color=#ffed00><b>    /room sex allow</b></color> – Allows Sex in your room.|||||
+!|<color=#ffed00><b>    /room prompt welcome text</b></color> - Set the welcome text for the room that appears at the entrance to "welcome text". Use "\" symbol to split a line in the text (to leave a space).|||||
+!|<color=#ffed00><b>    /room slowmode 15</b></color> - Set a slow chat mode in the room with at least 15 seconds between messages (slow mode).|||||
+!|<color=#ffed00><b>    /room slowmode mute</b></color> - Turns off Local chat in your room.|||||
+!|<color=#ffed00><b>    /room slowmode reset</b></color> - Restores the local chat you closed in your room.|||||
+!|<color=#ffed00><b>    /room close</b></color> - Removes your room from the General room list and closes it.|||||
+!|<color=#ffed00><b>    /room vehicles forbid</b></color> - Prohibits the use of vehicles in your room.|||||
+!|<color=#ffed00><b>    /room vehicles allow</b></color> - Allows the use of vehicles in your room.|||||
+!|<color=#ffed00><b>    /room shownicknames</b></color> or <color=#ffed00><b>/room snn</b></color> - Allows the location owner to hide players nicknames.|||||
 !Managing offers of poses and partners||||||
-!|<color=#ffed00><b>/sex sub</b></color> - For all suggested poses to be automatically accepted by the partner.|||||
-!|<color=#ffed00><b>/sex deny</b></color> - Automatically rejects all incoming offers.|||||
-!|<color=#ffed00><b>/sex reset</b></color> - Resets sex settings to default.|||||
-!|<color=#ffed00><b>/whore</b></color> - Automatically approves all incoming partner offers and all proposed positions.|||||
+!|<color=#ffed00><b>    /sex sub</b></color> - For all suggested poses to be automatically accepted by the partner.|||||
+!|<color=#ffed00><b>    /sex deny</b></color> - Automatically rejects all incoming offers.|||||
+!|<color=#ffed00><b>    /sex reset</b></color> - Resets sex settings to default.|||||
+!|<color=#ffed00><b>    /whore</b></color> - Automatically approves all incoming partner offers and all proposed positions.|||||
 !Minigames||||||
-!|<color=#ffed00><b>/dice 10</b></color> - Roll dice with sides from 1 to 10. If the number of sides is not specified, the default will be 6.|||||
-!|<color=#ffed00><b>/spin</b></color> - Is a bottle game, It works in a group chat. Points to one of the participants in a group chat.|||||
-!|<color=#ffed00><b>/rps</b></color> or <color=#ffed00><b>/кнб</b></color> - Minigame "Rock, Paper, Scissors".|||||
-!|<color=#ffed00><b>/hot</b></color> or <color=#ffed00><b>/оир</b></color> - Minigame "Heads or Tails".|||||
-!|<color=#ffed00><b>/poker</b></color> or <color=#ffed00><b>/покер</b></color> - Minigame "5 Cards" (poker). Works only in group chat.|||||
-!|<color=#ffed00><b>/rpd</b></color> or <color=#ffed00><b>/спк</b></color> - Deck reset. Works only in group chat.|||||
+!|<color=#ffed00><b>    /dice 10</b></color> - Roll dice with sides from 1 to 10. If the number of sides is not specified, the default will be 6.|||||
+!|<color=#ffed00><b>    /spin</b></color> - Is a bottle game, It works in a group chat. Points to one of the participants in a group chat.|||||
+!|<color=#ffed00><b>    /rps</b></color> or <color=#ffed00><b>/кнб</b></color> - Minigame "Rock, Paper, Scissors".|||||
+!|<color=#ffed00><b>    /hot</b></color> or <color=#ffed00><b>/оир</b></color> - Minigame "Heads or Tails".|||||
+!|<color=#ffed00><b>    /poker</b></color> or <color=#ffed00><b>/покер</b></color> - Minigame "5 Cards" (poker). Works only in group chat.|||||
+!|<color=#ffed00><b>    /rpd</b></color> or <color=#ffed00><b>/спк</b></color> - Deck reset. Works only in group chat.|||||
