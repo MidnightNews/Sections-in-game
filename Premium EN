@@ -6,7 +6,7 @@ Premium features:|    - Find a character in the room\n    - Find out the locatio
 !||https://midnight3d.in/images/Instruction.png||||
 !Using premium account functions:||||||
 !|<color=#ffed00><b>    ctrl + alt + click the left mouse button to the desired location</b></color> - To teleport press these keys simultaneously.|||||
-!|    Attention. Teleportation does not work in locations with the NoFreeCam mode enabled.|||||
+!|<color=#ffed00>    Attention.</color> Teleportation does not work in locations with the NoFreeCam mode enabled.|||||
 !Other premium account features are managed in the "Prem Abilities" tab or by commands:||||||
 !|<color=#ffed00><b>    /vehicle</b></color> - Summons a jet bike for you to fly around the location (won't work if the location owner has disabled it).|||||
 !|<color=#ffed00><b>    /locate nick</b></color> - Moves the camera to the player "nick." Won't work if the free camera mode is disabled in the room.|||||
