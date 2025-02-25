@@ -42,3 +42,4 @@
 !|    Move primitive to the desired position in location and then go to <color=#ffed00>Materials</color> section (see image below, item 1), and then to Patterns section (item 2) in it. Scroll down the list of textures until the appearance of the icon with the logo <color=#ffed00>Web Texture</color> - this is function of adding an image by link.|||||
 !||https://midnight3d.in/images/picture-texture01.png||||
 !|    <color=#ffed00>Note.</color> The primitive of image is a one-sided texture, keep this in mind during installation. It is transparent on the reverse side. You can use this feature when building locations, for example, to create one-sided mirrors or walls.|||||
+!2/25/2025 4:06:18 PM||||||
