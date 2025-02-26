@@ -28,7 +28,7 @@ Game commands that are available to all players|<color=#ffed00><b>    /myonline<
 !|<color=#ffed00><b>    /sex sub</b></color> - For all suggested poses to be automatically accepted by the partner.|||||
 !|<color=#ffed00><b>    /sex deny</b></color> - Automatically rejects all incoming offers.|||||
 !|<color=#ffed00><b>    /sex reset</b></color> - Resets sex settings to default.|||||
-!|<color=#ffed00><b>    /whore</b></color> - Automatically approves all incoming partner offers and all proposed positions.|||||
+!|<color=#ffed00><b>    /whore</b></color> - Automatically approves all incoming partner offers and all proposed positions. Entering the command again disables the mode.|||||
 !Minigames||||||
 !|<color=#ffed00><b>    /dice 10</b></color> - Roll dice with sides from 1 to 10. If the number of sides is not specified, the default will be 6.|||||
 !|<color=#ffed00><b>    /spin</b></color> - Is a bottle game, It works in a group chat. Points to one of the participants in a group chat.|||||
@@ -36,4 +36,4 @@ Game commands that are available to all players|<color=#ffed00><b>    /myonline<
 !|<color=#ffed00><b>    /hot</b></color> or <color=#ffed00><b>/оир</b></color> - Minigame "Heads or Tails".|||||
 !|<color=#ffed00><b>    /poker</b></color> or <color=#ffed00><b>/покер</b></color> - Minigame "5 Cards" (poker). Works only in group chat.|||||
 !|<color=#ffed00><b>    /rpd</b></color> or <color=#ffed00><b>/спк</b></color> - Deck reset. Works only in group chat.|||||
-!2/25/2025 4:06:18 PM||||||
+!2/26/2025 9:01:38 PM||||||
